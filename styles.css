@@ -1,0 +1,22 @@
+.black {
+    color:#000000;
+    background-color:#FFFFFF;
+     border: 5px outset #125E8A;
+}
+.white {
+  color:#FFFFFF;
+    background-color:#000000;
+     border: 5px outset #125E8A;
+}
+.lavender {
+  color:#E6E6FA;
+    background-color:#000000;
+     border: 5px outset #125E8A;
+}
+img {
+    width: 175px;
+     border: 5px outset #125E8A;
+}
+body {
+    background: url("https://thumbs.dreamstime.com/b/vector-seamless-pattern-question-marks-quiz-background-pink-161784076.jpg");
+}
